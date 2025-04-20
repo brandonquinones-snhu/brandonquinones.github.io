@@ -21,7 +21,7 @@ In this code review video, I go over the three projects I will cover and make en
 
 This Enhancement is on an Andriod application based on Java+Kotlin developed on Andriod Studio. In this course, CS-360 Mobile Architecture and Programming, My app is named Janus after the Roman god of beginnings and ends, it is designed to be an Event Tracker and the enhancement I gave it was a UI design for SMS and Email notifications. I aimed to show that I could build a UI on Andriod Studio and imlpiment some logic as well that would check and make sure a valid phone number and email is given. Below you will see the added layout and the validation errors that are also configured in the app. 
 
-![alt text](assets/img/cs 360/Screenshot 2025-04-18 at 4.06.49 PM.png)
+![alt text](assets/img/cs 360/Screenshot 2025-04-18 at 4.08.41 PM.png)
 
 ## Enhancement Two: Algorithms and Data Structure
 
