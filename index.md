@@ -4,11 +4,7 @@ layout: default
 
 ## Welcome
 
-This ePortfolio represents my time at Southern New Hampshire and the applied skills and abilites in my capstone course. In this we took three existing projects and enchanced them each with a different computer science focused area in mind. This portfolio is also designed with professional quality in mind and to show my abilities to present content and data in a manner that is appropiate and consumable to the audience. 
-
-## Table of Contents
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+This ePortfolio represents my time at Southern New Hampshire and the applied skills and abilites in my capstone course. In this we took three existing projects and enchanced them each with a different computer science focused area in mind. This portfolio is also designed with professional quality in mind and to show my abilities to present content and data in a manner that is appropiate and consumable to the audience.                                                     
 
 ## Professional Self-Assessment
 
