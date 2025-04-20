@@ -4,7 +4,7 @@ layout: default
 
 ## Welcome
 
-This ePortfolio represents my time at Southern New Hampshire and the applied skills and abilites in my capstone course. I n this we took three existing projects and enchanced them each with a different computer science focused area in mind. This portfolio is also designed with professional quality in mind and to show my abilities to present content and data in a manner that is appropiate and consumable to the audience.                                                     
+This ePortfolio represents my time at Southern New Hampshire and the applied skills and abilites in my capstone course. In this we took three existing projects and enchanced them each with a different computer science focused area in mind. This portfolio is also designed with professional quality in mind and to show my abilities to present content and data in a manner that is appropiate and consumable to the audience.                                                     
 
 ## Professional Self-Assessment
 
@@ -33,5 +33,4 @@ This Enhancement is based around JUnit testing. This course, CS-320 Software Tes
 
 This Enhancement is based around MongoDB. In this course, CS-465 Full Stack Development I, we created a MEAN (MongoDB, Express, Angular, Node.js) full-stack application. There is an admin SPA (single-page application) that allows admins to add new trips or modify existing trips through this UI. The new enhancement is I added a logic to the user database to store the user role with the permission this user has. The SPA can only be logged in with the credentials of a user that has the admin user role. 
 
-#### image
-
+![alt text](assets/img/cs 364/Screenshot 2025-04-08 at 7.55.11 PM.png)
