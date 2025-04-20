@@ -27,8 +27,7 @@ This Enhancement is on an Andriod application based on Java+Kotlin developed on 
 
 This Enhancement is based around JUnit testing. This course, CS-320 Software Testing, Automation, and Quality Assurance, was simply about data structures and how to create JUnit testcases to validate these data structures. I enhancemented the class for Appointment and gave it a large amount of elements, some with different requirements, data types, and logic around it. Below you will find images of the class atributes, the datatypes and validations given, and the tests created and success results.
 
-#### image
-
+![alt text](assets/img/cs 320/Screenshot 2025-04-20 at 3.11.11 PM.png)
 
 ## Enhancement Three: Databases
 
