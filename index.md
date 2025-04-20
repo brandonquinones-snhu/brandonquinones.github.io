@@ -4,7 +4,7 @@ layout: default
 
 ## Welcome
 
-This ePortfolio represents my time at Southern New Hampshire and the applied skills and abilites in my capstone course. In this we took three existing projects and enchanced them each with a different computer science focused area in mind. This portfolio is also designed with professional quality in mind and to show my abilities to present content and data in a manner that is appropiate and consumable to the audience.                                                     
+This ePortfolio represents my time at Southern New Hampshire and the applied skills and abilites in my capstone course. I n this we took three existing projects and enchanced them each with a different computer science focused area in mind. This portfolio is also designed with professional quality in mind and to show my abilities to present content and data in a manner that is appropiate and consumable to the audience.                                                     
 
 ## Professional Self-Assessment
 

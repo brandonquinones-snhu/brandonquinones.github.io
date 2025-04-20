@@ -1,6 +1,6 @@
 remote_theme: pages-themes/minimal@v0.2.0
-logo: /assets/img/profilephoto.png
+logo: /assets/img/profilephoto.jpeg
 plugins:
 - jekyll-remote-theme
 title: Brandon Quinones' ePortfolio
-description: Hi, my name is Brandon Quinones I am a Computer Science graduate based in Dallas, Texas. I enjoy programming and currently a full time SDET. I aspire to increase my career skills in data analysis and artificial intelligence. I aim to showcase my skills learned during my time in SNHu through this ePortfolio. I encourage you to reach out and connect with  me on LinkedIn!
+description: Hi, my name is Brandon Quinones I am a Computer Science graduate based in Dallas, Texas. I enjoy programming and currently a full time SDET. I aspire to increase my career skills in data analysis and artificial intelligence.
