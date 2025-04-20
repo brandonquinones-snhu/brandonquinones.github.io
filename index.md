@@ -10,7 +10,7 @@ This ePortfolio represents my time at Southern New Hampshire and the applied ski
 
 This is a placeholder...
 
-## Code Review
+## Code Review Video
 
 In this code review video, I go over the three projects I will cover and make enhancements for. I perform a typical code review, where the developer reviews his code changes with a peer or lead developer. Code reviews are a common practice in code development roles and are done in order to make sure code quality standards are being held and any discrepancies or overlooks can be caught along side a peer. The acceptance of a peer or lead can help boost confidence as well and can reduce the blame of any mishap being pinned on a single person when the code change has been filtered through multiple eyes before being accepted.
 
@@ -21,7 +21,7 @@ In this code review video, I go over the three projects I will cover and make en
 
 This Enhancement is on an Andriod application based on Java+Kotlin developed on Andriod Studio. In this course, CS-360 Mobile Architecture and Programming, My app is named Janus after the Roman god of beginnings and ends, it is designed to be an Event Tracker and the enhancement I gave it was a UI design for SMS and Email notifications. I aimed to show that I could build a UI on Andriod Studio and imlpiment some logic as well that would check and make sure a valid phone number and email is given. Below you will see the added layout and the validation errors that are also configured in the app. 
 
-#### image
+![alt text](assets/img/cs 360/Screenshot 2025-04-18 at 4.06.49 PM.png)
 
 ## Enhancement Two: Algorithms and Data Structure
 
