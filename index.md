@@ -34,3 +34,8 @@ This Enhancement is based around JUnit testing. This course, CS-320 Software Tes
 This Enhancement is based around MongoDB. In this course, CS-465 Full Stack Development I, we created a MEAN (MongoDB, Express, Angular, Node.js) full-stack application. There is an admin SPA (single-page application) that allows admins to add new trips or modify existing trips through this UI. The new enhancement is I added a logic to the user database to store the user role with the permission this user has. The SPA can only be logged in with the credentials of a user that has the admin user role. 
 
 ![alt text](assets/img/cs 465/Screenshot 2025-04-20 at 5.12.49 PM.png)
+
+
+
+
+<a href="https://www.linkedin.com/in/brandonquinones/" title="LinkedIn" class="btn btn-linkedin btn-lg"><i class="fa fa-linkedin fa-fw"></i> LinkedIn</a>
