@@ -8,7 +8,15 @@ Welcome to my ePortfolio, a reflection of my journey at Southern New Hampshire U
 
 ## Professional Self-Assessment
 
-This is a placeholder...
+Reflecting on this course, I feel proud of the skills I’ve demonstrated and the growth I’ve achieved through each project. I was able to apply my knowledge in meaningful ways and strengthen my abilities in real-world development scenarios.
+
+One key area where I see strong potential for myself is in database work. I found myself genuinely engaged when working with MongoDB and user roles, and I’m motivated to further develop my expertise in database management and optimization. It's an area I want to proactively pursue and eventually master.
+
+I also thoroughly enjoy testing and quality assurance, which aligns with my current role as an SDET. I understand the critical role that testing plays in software development, and I take pride in writing thorough, reliable tests that help ensure a solid final product.
+
+On the other hand, I found mobile application development to be more challenging. While I was able to successfully implement the required features and demonstrate the necessary technical skills, the creative aspects—particularly UI and UX design—are less intuitive for me. Designing visually appealing and user-friendly interfaces doesn’t come as naturally, and it's an area where I recognize room for growth, even if it’s not where I see myself specializing.
+
+Looking ahead, my long-term goal is to become a developer and eventually move into leadership roles such as a lead developer or product owner. While I enjoy the technical side of software development, I believe I also have the potential for leadership and team guidance. With experience and continuous skill-building, I hope to one day step into a role where I can contribute both technically and strategically, helping shape projects and mentor others along the way.
 
 ## Code Review Video
 
