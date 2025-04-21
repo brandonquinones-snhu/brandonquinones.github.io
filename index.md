@@ -4,7 +4,7 @@ layout: default
 
 ## Welcome
 
-This ePortfolio represents my time at Southern New Hampshire and the applied skills and abilites in my capstone course. In this we took three existing projects and enchanced them each with a different computer science focused area in mind. This portfolio is also designed with professional quality in mind and to show my abilities to present content and data in a manner that is appropiate and consumable to the audience.                                                     
+Welcome to my ePortfolio, a reflection of my journey at Southern New Hampshire University and the practical skills I've developed during my capstone course. In this project, I revisited three existing works and enhanced each one with a distinct focus on key areas of computer science. This portfolio is designed with a professional standard in mind, showcasing my ability to present content and data in a clear, effective, and audience-friendly manner.
 
 ## Professional Self-Assessment
 
@@ -12,28 +12,38 @@ This is a placeholder...
 
 ## Code Review Video
 
-In this code review video, I go over the three projects I will cover and make enhancements for. I perform a typical code review, where the developer reviews his code changes with a peer or lead developer. Code reviews are a common practice in code development roles and are done in order to make sure code quality standards are being held and any discrepancies or overlooks can be caught along side a peer. The acceptance of a peer or lead can help boost confidence as well and can reduce the blame of any mishap being pinned on a single person when the code change has been filtered through multiple eyes before being accepted.
+In this code review video, I walk through the three projects I selected for enhancement and explain the changes I made to each. I conduct a standard code review—similar to what typically occurs between a developer and a peer or lead—where code changes are examined collaboratively. Code reviews are a vital part of professional development workflows, ensuring that code quality standards are upheld and that potential issues or oversights are identified early. This collaborative process not only improves the final product but also builds team confidence and accountability, as changes are reviewed and approved by multiple developers before being finalized.
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/tRtmJMMTyjE/0.jpg)](https://www.youtube.com/watch?v=tRtmJMMTyjE)
+[![Code Review Video](https://img.youtube.com/vi/tRtmJMMTyjE/0.jpg)](https://www.youtube.com/watch?v=tRtmJMMTyjE)
 
 
-## Enhancement One: Software Design and Engineering
+## Enhancement One: Mobile Application UI and Validation
 
-This Enhancement is on an Andriod application based on Java+Kotlin developed on Andriod Studio. In this course, CS-360 Mobile Architecture and Programming, My app is named Janus after the Roman god of beginnings and ends, it is designed to be an Event Tracker and the enhancement I gave it was a UI design for SMS and Email notifications. I aimed to show that I could build a UI on Andriod Studio and imlpiment some logic as well that would check and make sure a valid phone number and email is given. Below you will see the added layout and the validation errors that are also configured in the app. 
+This enhancement focuses on an Android application developed using Java and Kotlin in Android Studio. The project originates from the course **CS-360: Mobile Architecture and Programming**. The app, named **Janus**—after the Roman god of beginnings and endings—is designed to function as an event tracker.
 
-![alt text](assets/img/cs 360/Screenshot 2025-04-18 at 4.08.41 PM.png)
+For this enhancement, I implemented a user interface for SMS and email notifications. My goal was to demonstrate proficiency in building a UI in Android Studio while also incorporating backend logic to validate user input. Specifically, the app now checks for valid phone numbers and email addresses before proceeding.
 
-## Enhancement Two: Algorithms and Data Structure
+Below, you’ll see the updated layout as well as examples of the validation error messages that are displayed when invalid input is detected.
 
-This Enhancement is based around JUnit testing. This course, CS-320 Software Testing, Automation, and Quality Assurance, was simply about data structures and how to create JUnit testcases to validate these data structures. I enhancemented the class for Appointment and gave it a large amount of elements, some with different requirements, data types, and logic around it. Below you will find images of the class atributes, the datatypes and validations given, and the tests created and success results.
+![CS 360 Image](assets/img/cs 360/Screenshot 2025-04-18 at 4.08.41 PM.png)
 
-![alt text](assets/img/cs 320/Screenshot 2025-04-20 at 3.11.11 PM.png)
+## Enhancement Two: JUnit Testing and Validation
 
-## Enhancement Three: Databases
+This enhancement centers around **JUnit** testing, stemming from the course **CS-320: Software Testing, Automation, and Quality Assurance**. The course emphasized understanding data structures and developing JUnit test cases to validate their functionality.
 
-This Enhancement is based around MongoDB. In this course, CS-465 Full Stack Development I, we created a MEAN (MongoDB, Express, Angular, Node.js) full-stack application. There is an admin SPA (single-page application) that allows admins to add new trips or modify existing trips through this UI. The new enhancement is I added a logic to the user database to store the user role with the permission this user has. The SPA can only be logged in with the credentials of a user that has the admin user role. 
+For this enhancement, I focused on the Appointment class, significantly expanding it by introducing a variety of attributes—each with unique data types, validation rules, and business logic. The objective was to demonstrate my ability to write thorough unit tests that verify both the correctness and robustness of these features.
 
-![alt text](assets/img/cs 465/Screenshot 2025-04-20 at 5.12.49 PM.png)
+Below, you’ll find images showcasing the class attributes, their respective data types, the validation logic applied, as well as the JUnit test cases and their successful execution results.
+![CS 320 Image](assets/img/cs 320/Screenshot 2025-04-20 at 3.11.11 PM.png)
+
+## Enhancement Three: Role-Based Access Control with MongoDB
+
+This enhancement is focused on **MongoDB** and stems from the course **CS-465: Full Stack Development I**, where we developed a full-stack application using the **MEAN stack** (MongoDB, Express, Angular, Node.js).
+
+The application includes an admin-focused single-page application (SPA) that enables administrators to add new trips or modify existing ones through a user-friendly interface. For this enhancement, I implemented **role-based access control (RBAC)** by adding logic to the user database to store a userRole field, which defines the permissions associated with each user.
+
+As part of this enhancement, only users with the admin role are now able to log into the admin SPA. This ensures that sensitive administrative features are restricted and secure, highlighting my understanding of authentication, authorization, and secure backend logic.
+![CS 3465 Image](assets/img/cs 465/Screenshot 2025-04-20 at 5.12.49 PM.png)
 
 ## Conclusion
 
