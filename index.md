@@ -35,7 +35,7 @@ This Enhancement is based around MongoDB. In this course, CS-465 Full Stack Deve
 
 ![alt text](assets/img/cs 465/Screenshot 2025-04-20 at 5.12.49 PM.png)
 
+## Conclusion
 
-
-
-<a href="https://www.linkedin.com/in/brandonquinones/" title="LinkedIn" class="btn btn-linkedin btn-lg"><i class="fa fa-linkedin fa-fw"></i> LinkedIn</a>
+I really enjoyed my time here at SNHU. I benefited much from the online campus and was able to remain working while doing school full-time. This challenge was an important stepping stone for me and I hope that what's next for me is good in the field of Computer Science. Pleae feel free to follow me on
+<a href="https://www.linkedin.com/in/brandonquinones/" title="LinkedIn" class="btn btn-linkedin btn-lg"><i class="fa fa-linkedin fa-fw"></i> LinkedIn</a>!
