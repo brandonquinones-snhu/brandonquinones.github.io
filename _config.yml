@@ -1,5 +1,5 @@
 remote_theme: pages-themes/minimal@v0.2.0
-logo: /assets/img/profilephoto.jpeg
+logo: /assets/img/profilephoto.png
 plugins:
 - jekyll-remote-theme
 title: Brandon Quinones
