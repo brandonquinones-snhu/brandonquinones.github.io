@@ -55,5 +55,6 @@ Looking ahead, my long-term goal is to become a developer and eventually move in
 
 ## Conclusion
 
-I really enjoyed my time here at SNHU. I benefited much from the online campus and was able to remain working while doing school full-time. This challenge was an important stepping stone for me and I hope that what's next for me is good in the field of Computer Science. Pleae feel free to follow me on
-<a href="https://www.linkedin.com/in/brandonquinones/" title="LinkedIn" class="btn btn-linkedin btn-lg"><i class="fa fa-linkedin fa-fw"></i> LinkedIn</a>!
+My time at SNHU has been a truly rewarding experience. The flexibility of the online campus allowed me to balance full-time work while completing my degree, and I’m proud of the dedication and perseverance it took to achieve this milestone. This journey has been a significant stepping stone in my career, and I’m excited to see what’s next for me in the field of Computer Science.
+
+Thank you for taking the time to view my ePortfolio—and please feel free to connect with me on <a href="https://www.linkedin.com/in/brandonquinones/" title="LinkedIn" class="btn btn-linkedin btn-lg"><i class="fa fa-linkedin fa-fw"></i> LinkedIn</a>!
